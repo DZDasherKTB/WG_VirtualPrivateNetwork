@@ -333,7 +333,7 @@ sudo cat /etc/wireguard/wg0.conf
 
 ---
 
-## 🦈 Verification with Wireshark
+##  Verification with Wireshark
 
 Wireshark lets you visually confirm that WireGuard is encrypting your traffic correctly.
 
@@ -510,7 +510,7 @@ pip install matplotlib
 
 ## License
 
-MIT : do whatever you want with it.
+MIT : do whatever you want with it :)
 
 ---
 
