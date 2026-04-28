@@ -25,7 +25,7 @@ On top of the core tunnel, this project ships:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 WG_VirtualPrivateNetwork/
