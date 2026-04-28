@@ -64,7 +64,7 @@ Check the connection status:
 
 ```bash
 sudo wg show
-ping 10.0.0.1
+ping 10.8.0.1
 ```
 
 > **Note:** Ensure that UDP port 51820 is open on the Server's firewall (e.g., `ufw allow 51820/udp`).
